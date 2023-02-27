@@ -3,4 +3,5 @@ Working on a new theme
 Features:
 - Rounded
 - No title bar
-- customizable
+- New Icons
+- Customizable
